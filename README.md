@@ -1,8 +1,7 @@
-- 👋 Hi, I’m valera🐺
-- 👀 I’m interested in web development in the aspect of bots🤖 and websites🌐
-- 🌱 I’m currently learning JS, HTML and CSS on Odin project⚔️
-- 💞️ I’m looking to collaborate on joke websites and great ideas🤡
-- 📫 Feel free to contact me via lillillliliiljijli@protonmail.com for any reason🥰
+- 👋 Hi, I’m Valera🐺
+- 👀 Interested in web development🌐
+- 🌱 Currently learning VueJS⚔️
+- 📫 Feel free to contact me via new-house-drive@protonmail.com for any reason🥰
 
 <!---
 ljiljljilijlijlijlijjlijilijjliijljil/ljiljljilijlijlijlijjlijilijjliijljil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
