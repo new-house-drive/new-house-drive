@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valera🐺
 - 👀 Interested in web development🌐
-- 🌱 Currently learning VueJS⚔️
+- 🌱 Currently learning following the Odin Project⚔️
 - 📫 Feel free to contact me via new-house-drive@protonmail.com for any reason🥰
 
 <!---
